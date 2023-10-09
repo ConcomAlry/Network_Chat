@@ -1,0 +1,22 @@
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.csprojAssemblyReference.cache
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.Form1.resources
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.Form2.resources
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.csproj.GenerateResource.cache
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.csproj.CoreCompileInputs.cache
+C:\Прочее\Новая папка (2)\My_Client\My_Client\bin\Debug\My_Client.exe.config
+C:\Прочее\Новая папка (2)\My_Client\My_Client\bin\Debug\My_Client.exe
+C:\Прочее\Новая папка (2)\My_Client\My_Client\bin\Debug\My_Client.pdb
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.exe
+C:\Прочее\Новая папка (2)\My_Client\My_Client\obj\Debug\My_Client.pdb
+C:\Прочее\My_Client_2.0\My_Client\My_Client\bin\Debug\My_Client.exe.config
+C:\Прочее\My_Client_2.0\My_Client\My_Client\bin\Debug\My_Client.exe
+C:\Прочее\My_Client_2.0\My_Client\My_Client\bin\Debug\My_Client.pdb
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.csprojAssemblyReference.cache
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.Form1.resources
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.Form2.resources
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.csproj.GenerateResource.cache
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.csproj.CoreCompileInputs.cache
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.exe
+C:\Прочее\My_Client_2.0\My_Client\My_Client\obj\Debug\My_Client.pdb

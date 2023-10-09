@@ -1,0 +1,22 @@
+C:\Прочее\Новая папка (2)\My_Client\My_Server\bin\Debug\My_Server.exe.config
+C:\Прочее\Новая папка (2)\My_Client\My_Server\bin\Debug\My_Server.exe
+C:\Прочее\Новая папка (2)\My_Client\My_Server\bin\Debug\My_Server.pdb
+C:\Прочее\Новая папка (2)\My_Client\My_Server\obj\Debug\My_Server.csprojAssemblyReference.cache
+C:\Прочее\Новая папка (2)\My_Client\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Прочее\Новая папка (2)\My_Client\My_Server\obj\Debug\My_Server.exe
+C:\Прочее\Новая папка (2)\My_Client\My_Server\obj\Debug\My_Server.pdb
+C:\Прочее\My_Client_2.0\My_Client\My_Server\bin\Debug\My_Server.exe.config
+C:\Прочее\My_Client_2.0\My_Client\My_Server\bin\Debug\My_Server.exe
+C:\Прочее\My_Client_2.0\My_Client\My_Server\bin\Debug\My_Server.pdb
+C:\Прочее\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.csprojAssemblyReference.cache
+C:\Прочее\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\Прочее\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.exe
+C:\Прочее\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.pdb
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\bin\Debug\My_Server.exe.config
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\bin\Debug\My_Server.exe
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\bin\Debug\My_Server.pdb
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.csproj.AssemblyReference.cache
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.csproj.SuggestedBindingRedirects.cache
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.csproj.CoreCompileInputs.cache
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.exe
+C:\ProgramProjects\Неактуальное\Черновики программ\My_Client_2.0\My_Client\My_Server\obj\Debug\My_Server.pdb
